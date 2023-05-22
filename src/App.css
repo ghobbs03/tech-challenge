@@ -10,4 +10,6 @@
 
 .app-header-name {
   font-family: "Roboto";
+  font-weight: bolder;
+  padding-top: 20px;
 }
